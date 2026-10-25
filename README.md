@@ -112,6 +112,16 @@ Use the supplied uninstaller rather than manually deleting privileged helper fil
 
 ---
 
+
 ## 🙏 Credits
 
-- [**BootChamp**](https
+- [**BootChamp**](https://github.com/kainjow/BootChamp) — inspiration for the one-click Windows boot concept. OC Bootcamp is a separate project and is not endorsed by or affiliated with the original author.
+- [**OpenCorePkg**](https://github.com/acidanthera/OpenCorePkg) — the OpenCore boot manager and its documentation.
+- [**Hackintosh and OpenCore communities**](https://github.com/topics/hackintosh) — for shared technical knowledge and documentation.
+
+## ⚠️ Disclaimer
+
+OC Bootcamp is provided **as is, without warranty**. Changing boot settings and using privileged software can affect system startup. Back up important data and ensure you can access the OpenCore boot picker before using the application.
+
+OC Bootcamp is an independent community project and is not affiliated with or endorsed by Apple, Microsoft, or Acidanthera.
+
