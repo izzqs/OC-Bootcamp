@@ -1,7 +1,7 @@
 # 🖥️ OC Bootcamp
 
 <p align="center">
-  <img src="Screenshots/OC%20Bootcamp%20Icon.png" alt="OC Bootcamp" width="300">
+  <img src="Screenshots/OC%20Bootcamp%20Icon.png" alt="OC Bootcamp" width="100">
 </p>
 
 ### One-click Windows booting for OpenCore Hackintosh systems
