@@ -1,7 +1,17 @@
 # 🖥️ OC Bootcamp
 
+## Screenshots
+
+### App Icon
+
 <p align="center">
-  <img src="Screenshots/OC%20Bootcamp%20Icon.png" alt="OC Bootcamp" width="100">
+  <img src="Screenshots/OC%20Bootcamp%20Icon.png" alt="OC Bootcamp Icon" width="180">
+</p>
+
+### Application Interface
+
+<p align="center">
+  <img src="Screenshots/OC%20Bootcamp%20GUI.png" alt="OC Bootcamp GUI" width="600">
 </p>
 
 ### One-click Windows booting for OpenCore Hackintosh systems
