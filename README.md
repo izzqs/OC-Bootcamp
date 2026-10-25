@@ -1,5 +1,9 @@
 # 🖥️ OC Bootcamp
 
+<p align="center">
+  <img src="screenshots/OC Bootcamp Icon.png" alt="OC Bootcamp menu bar app" width="600">
+</p>
+
 ### One-click Windows booting for OpenCore Hackintosh systems
 
 OC Bootcamp is a lightweight macOS menu-bar application that lets you restart directly into Windows without manually selecting Windows from the OpenCore boot picker.
