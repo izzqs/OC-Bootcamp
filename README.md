@@ -51,7 +51,7 @@ Compatibility also depends on your firmware, OpenCore configuration, and Windows
 
 ## 📥 Installation
 
-1. Download `OC-Bootcamp.dmg` from the **Releases** section.
+1. Download `OC Bootcamp.dmg` from the **Releases** section.
 2. Open the downloaded DMG.
 3. Drag **OC Bootcamp.app** into your **Applications** folder.
 4. Run **Install Privileged Helper.command** from the mounted DMG.
